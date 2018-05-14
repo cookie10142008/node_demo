@@ -1,0 +1,15 @@
+{
+  "name": "node_demo",
+  "version": "1.0.0",
+  "description": "node_demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wei-hong Lin<cookie10142008@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "x-ray": "^2.3.2"
+  } 
+}
